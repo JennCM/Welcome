@@ -21,11 +21,14 @@ Enhance Security and Compliance: Implement security best practices and complianc
 
 ## What You Will Find ##
 
-Case Projects: Detailed project documentation highlighting my hands-on experience with various cloud technologies and services.
+### Case Projects: 
+Detailed project documentation highlighting my hands-on experience with various cloud technologies and services.
 
-Skills and Technologies: An overview of the tools and technologies I have mastered includes Azure, AWS, PowerShell, and more.
+### Skills and Technologies: 
+An overview of the tools and technologies I have mastered includes Azure, AWS, PowerShell, and more.
 
-Professional Qualities: I would like insight into my problem-solving abilities, attention to detail, and commitment to continuous learning and improvement.
+### Professional Qualities: 
+I would like insight into my problem-solving abilities, attention to detail, and commitment to continuous learning and improvement.
 
 ## Why Choose Me? ##
 
